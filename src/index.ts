@@ -1,7 +1,8 @@
-import { func } from "./func";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import { func } from './func';
 
-func("Yes")
 
-const root = document.getElementById('root')
-
-root.innerHTML = '<h1>New functionwe</h1>'
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<h1>Hello</h1> )
