@@ -1,3 +1,3 @@
 import { func } from "./func";
 
-hello()
+func()
