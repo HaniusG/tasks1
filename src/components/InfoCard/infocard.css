@@ -2,7 +2,10 @@
     display: flex;
     margin: 100px 100px;
     justify-content: center;
-    
+}
+
+.infoCardInfo{
+    width: 500px;
 }
 
 .infoCard h1{
@@ -26,9 +29,4 @@
 .infoCard p{
     width: 500px;
     margin-bottom: 30px;
-}
-
-.buttonDiv{
-    display: flex;
-    justify-content: space-around;
 }
