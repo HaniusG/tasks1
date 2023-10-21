@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("I am function"),document.getElementById("root").innerHTML="<h1>New functionwe</h1>"})();
